@@ -1,6 +1,5 @@
-<h1 align="center">Hi EveryOne..👋</h1>
-<h3 align="center">I'm Adam Ramdani, you can call me Dam or Dew</h3>
-<h3 align="center">I'm a student from Wikrama Vocational School</h3>
+<h1 align="left">Hi EveryOne..👋</h1>
+<h3 align="left">I'm Adam Ramdani, you can call me Dam or Dew, I'm a student from Wikrama Vocational School</h3>
 
 <img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">
 
