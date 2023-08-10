@@ -1,20 +1,20 @@
 <h1 align="left">Hi EveryOne..👋</h1>
 <h3 align="left">I'm Adam Ramdani, you can call me Dam or Dew, I'm a student from Wikrama Vocational School</h3>
 
-<img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">
+<!--<img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">--!>
 
-- 👨‍💻 You can also check out my portfolio at [http://heyitsme.vercel.app/](http://heyitsme.vercel.app/)
+- 👨‍💻 You can also check out my portfolio at *soon
 
 - 📫 How to reach me **adamramdani1122@gmail.com**
 
 - ⚡ Fun fact **I never learned coding in school**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>--!>
 <p align="left">
 
 <!-- <a href="https://www.linkedin.com/in/bayu-iswahyudi-761457226/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a> -->
-<a href="https://instagram.com/adamramdaniyunus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adamramdaniyunus" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/adamramdaniyunus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adamramdaniyunus" height="30" width="40" /></a>--!>
 <!-- <a href="https://www.youtube.com/channel/UCW2lyQoXMYUvRk8JpYNNcJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a> -->
 
 </p>
