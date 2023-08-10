@@ -1,13 +1,9 @@
-<h1 align="left">Hi EveryOne..👋</h1>
-<h3 align="left">I'm Adam Ramdani, you can call me Dam or Dew, I'm a student from Wikrama Vocational School</h3>
+<h1 align="left">Hi👋</h1>
+<h3 align="left">I'm a student from Wikrama Vocational School</h3>
 
 <!--<img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">--!>
 
-- 👨‍💻 You can also check out my portfolio at *soon
-
-- 📫 How to reach me **adamramdani1122@gmail.com**
-
-- ⚡ Fun fact **I never learned coding in school**
+- ⚡ Fun fact ** I never learned coding in school **
 
 <!--<h3 align="left">Connect with me:</h3>--!>
 <p align="left">
