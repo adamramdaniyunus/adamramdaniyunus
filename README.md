@@ -1,5 +1,5 @@
-<h1 align="left">Hi👋</h1>
-<h3 align="left">I'm a student from Wikrama Vocational School</h3>
+<h1 align="left">Adam Yunus</h1>
+<h3 align="letf">Coldest boy in the World</h3>
 
 <!--<img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">--!>
 
