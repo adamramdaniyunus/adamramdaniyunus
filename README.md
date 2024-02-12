@@ -3,7 +3,7 @@
 
 <!--<img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">--!>
 
-- ⚡ Fun fact ** I never learned coding in school **
+- ⚡ Fun fact ** I'm not smart😎 **
 
 <!--<h3 align="left">Connect with me:</h3>--!>
 <p align="left">
