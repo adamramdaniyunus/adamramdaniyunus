@@ -3,7 +3,8 @@
 
 <!--<img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">--!>
 
-- ⚡ Fun fact ** I'm not smart😎 **
+- Indifferent
+- Curious
 
 <!--<h3 align="left">Connect with me:</h3>--!>
 <p align="left">
