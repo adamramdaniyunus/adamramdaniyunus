@@ -1,5 +1,5 @@
-<h1 align="left">Adam Yunus</h1>
-<h3 align="letf">Coldest boy in the World</h3>
+<h1 align="left">Adam Ramdani Yunus</h1>
+<h3 align="letf">whoever wants to be smart, he can be smart</h3>
 
 <!--<img align="right" alt="Coding" width="250" height="400" src="profile.jpeg">--!>
 
