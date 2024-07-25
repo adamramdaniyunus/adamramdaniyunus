@@ -14,10 +14,6 @@
 <!--<a href="https://instagram.com/adamramdaniyunus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adamramdaniyunus" height="30" width="40" /></a>--!>
 <!-- <a href="https://www.youtube.com/channel/UCW2lyQoXMYUvRk8JpYNNcJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a> -->
 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamramdaniyunus&show_icons=true&locale=en&layout=compact" alt="adamramdaniyunus" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamramdaniyunus&show_icons=true&locale=en" alt="nuralieffarhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuralieffarhan&" alt="nuralieffarhan" /></p> -->
