@@ -26,9 +26,9 @@
 
 ### 📊 GitHub Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamramdaniyunus&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img alt="Adam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adamramdaniyunus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=adamramdaniyunus&show_icons=true&locale=en" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamramdaniyunus" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamramdaniyunus&theme=react&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" alt="GitHub Streak" />
 </div>
 
 <h3 align="center">📫 Contact Me</h3>
