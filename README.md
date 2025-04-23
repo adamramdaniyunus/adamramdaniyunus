@@ -25,10 +25,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamramdaniyunus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamramdaniyunus&theme=react&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=adamramdaniyunus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adamramdaniyunus&theme=react&bg_color=0D1117&title_color=DC143C&icon_color=DC143C" /></td>
+  </tr>
+</table>
 
 
 <h3 align="center">📫 Contact Me</h3>
