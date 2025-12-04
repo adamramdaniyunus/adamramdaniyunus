@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Passionate Full Stack Developer skilled in both front-end and back-end development. Focused on continuous learning and contributing to meaningful projects.<br>
 
 
